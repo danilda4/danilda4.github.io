@@ -1,0 +1,39 @@
+html {
+    color: grey;
+    font-family: 'Noto Sans JP', sans-serif;
+    background-color: blanchedalmond;
+    margin: 0;
+}
+
+body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: aliceblue;
+    padding: 40px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    margin: 0;
+    padding: 20px 0;
+    color: pink;
+    text-shadow: 1px 1px 3px purple;
+}
+
+p{
+    font-size: 20px;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+ul{
+    display: block;
+    margin: 0 auto;
+}
+
+.image {
+max-width: 250px;
+display: block;
+margin: 0 auto;
+}
